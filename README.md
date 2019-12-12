@@ -1,4 +1,4 @@
-# flash_chat
+# Flash Chat
 
 A group chatting app.
 
